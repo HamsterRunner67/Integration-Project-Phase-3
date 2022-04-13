@@ -1,4 +1,4 @@
-# Intergration Project Phase 3 - Minesweeper
+# Integration Project Phase 3 - Minesweeper
 The final part of the integration project, with code following the PEP 8 standards.
 I made the game Minesweeper that can be played inside the console.
 
